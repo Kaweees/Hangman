@@ -8,8 +8,8 @@ Once the downloaded file is unzipped, follow these instructions:
 ### Python Setup
 1. Install Python 3.x or latest version.
 2. Open cmd/termial/etc. and use the command `pip install colorama` and `pip install random`.
-3. Documentation for colorama could be found [here](https://pypi.org/project/colorama/)
-4. Documentation for random could be found [here](https://docs.python.org/3/library/random.html)
+3. Documentation for `colorama` could be found [here](https://pypi.org/project/colorama/)
+4. Documentation for `random` could be found [here](https://docs.python.org/3/library/random.html)
 
 ## Running
 ### Before running
