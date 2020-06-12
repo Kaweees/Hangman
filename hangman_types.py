@@ -1,8 +1,8 @@
 hangman1 = '''   ____
-  |    |      Phrase #:    2
-  |    o      Guessed : abcmtwxyz
-  |   /|\     Average :  50%
-  |    |
+  |    |      Phrase :    ---a--
+  |    o      Guessed : abcmtwxyz              
+  |   /|\     Notguessed :  sjskhkjhds
+  |    |      Guesses left: 10
   |   / \
  _|_
 |   |______
@@ -12,8 +12,8 @@ hangman1 = '''   ____
 hangman2 = '''   ____
   |    |      Phrase #:    2
   |    o      Guessed : abcmtwxyz
-  |   /|\     Average :  50%
-  |    |
+  |   /|\     Notguessed :  sjskhkjhds
+  |    |      Guesses left: 10
   |   /
  _|_
 |   |______
@@ -23,8 +23,8 @@ hangman2 = '''   ____
 hangman3 = '''   ____
   |    |      Phrase #:    2
   |    o      Guessed : abcmtwxyz
-  |   /|\     Average :  50%
-  |
+  |   /|\     Notguessed :  sjskhkjhds
+  |           Guesses left: 10
   |
  _|_
 |   |______
@@ -34,8 +34,8 @@ hangman3 = '''   ____
 hangman4 = '''   ____
   |    |      Phrase #:    2
   |    o      Guessed : abcmtwxyz
-  |   /|     Average :  50%
-  |
+  |   /|      Notguessed :  sjskhkjhds
+  |           Guesses left: 10
   |
  _|_
 |   |______
@@ -45,8 +45,8 @@ hangman4 = '''   ____
 hangman5 = '''   ____
   |    |      Phrase #:    2
   |    o      Guessed : abcmtwxyz
-  |           Average :  50%
-  |
+  |           Notguessed :  sjskhkjhds
+  |           Guesses left: 10
   |
  _|_
 |   |______
@@ -56,8 +56,8 @@ hangman5 = '''   ____
 hangmandefault = '''   ____
   |    |      Phrase #:    2
   |           Guessed : abcmtwxyz
-  |           Average :  50%
-  |   
+  |           Notguessed :  sjskhkjhds
+  |           Guesses left: 10 
   |   
  _|_
 |   |______
