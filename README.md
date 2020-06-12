@@ -3,7 +3,7 @@ AP Computer Science Prinicipals assignment
 
 ## Installation Instructions
 You can download or modify the program by Cloning or Downloading the project or by saving it as a ".zip" file.
-Once the downloaded file is unzipped, follow these instructions:
+Once the downloaded file is extracted into a separate folder, follow these instructions:
 
 ### Python Setup
 1. Install Python 3.x or latest version.
