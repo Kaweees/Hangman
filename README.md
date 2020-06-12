@@ -17,3 +17,7 @@ No major modifications to the program have to be made before running
 
 ### Instructions
 1. Run main.py (located at the project root).
+
+## Acknowledgements
+When making the program aesthetically pleasing, I used the following site for aesthetic purposes:
+Expanded text for Hangman and Game Over Generated via the website: https://www.askapache.com/online-tools/figlet-ascii/
