@@ -1,7 +1,3 @@
-print('''Thank you to the following sites for some very helpful aesthetic resources making this game look nice:
-Expanded text for Hangman and Game Over Generated via the website: \nhttps://www.askapache.com/online-tools/figlet-ascii/
-Credit for Gallows:\nhttps://metacpan.org/pod/distribution/Games-Hangman/bin/hangman
-Note: besides the gallows and expanded text, the rest of this work is 100% mine''')
 import random
 #adding color to the program
 from colorama import Fore, Back, Style 
