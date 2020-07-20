@@ -17,6 +17,7 @@ No major modifications to the program have to be made before running
 
 ### Instructions
 1. Run main.py (located at the project root).
+2. The program can also be ran here [![Run on Repl.it](https://repl.it/badge/github/Kaweees/Hangman)](https://repl.it/github/Kaweees/Hangman)
 
 ## Acknowledgements
 When making the program aesthetically pleasing, I used the following site for aesthetic purposes:
