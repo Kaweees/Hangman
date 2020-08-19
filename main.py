@@ -27,6 +27,7 @@ print(Fore.CYAN +
 |_|  |_|\__,_|_| |_|\__, |_| |_| |_|\__,_|_| |_|
                      __/ |                      
                     |___/   """)#+--- big
+#bruh
 print(Fore.LIGHTRED_EX + " This game is intended to play in full screen. Please follow the following game for a better gaming experience: https://SimpleHangman.miguelvilla.repl.run")
 while triesleft != 0: #actual game starts here:
   guessedstring = ', '.join(guessedletters)
