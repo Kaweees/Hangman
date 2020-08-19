@@ -123,7 +123,7 @@ while triesleft != 0: #actual game starts here:
       if guess.lower() in guessedletters:
         pass
       else:
-         guessedletters += guess
+         guessedletters += guess 
       triesleft -= 1
     notguessedletters.remove(str(guess))
 
