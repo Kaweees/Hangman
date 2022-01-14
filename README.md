@@ -1,5 +1,5 @@
 # Hangman
-AP Computer Science Prinicipals assignment
+AP Computer Science Principles assignment
 
 ## Installation Instructions
 You can download or modify the program by Cloning or Downloading the project or by saving it as a ".zip" file.
